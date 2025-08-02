@@ -39,7 +39,6 @@
         <samp>&gt; About Me
         </samp>
 </h3>
-<br>
 <p align = "center">
         <samp>
                 🎓 Recent graduate in Compute Engieering at UCLM 🎓
