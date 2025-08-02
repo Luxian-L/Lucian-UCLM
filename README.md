@@ -34,14 +34,24 @@
 
 <!-- Trophies -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luxian-l" alt="luxian-l" /></a> </p> -->
-- 🎓 Recent graduate in Compute Engieering at UCLM
 
-- 🔭 Currently working on my final master's degree project
-
-- 🌱 I’m also learning **Cyberark and cybersecurity basics at my internship**
-
-- ⚡ Fun fact: **I'm bald** 👨‍🦲
-
+<h4 align="center">
+        <samp>&gt; About Me
+        </samp>
+</h3>
+<br>
+<p align = "center">
+        <samp>
+                🎓 Recent graduate in Compute Engieering at UCLM 🎓
+                <br>
+                🔭 Currently working on my final master's degree project 🔭
+                <br>
+                🌱 I’m also learning **Cyberark and cybersecurity basics at my internship** 🌱
+                <br>
+                ⚡ Fun fact: **I'm bald** 👨‍🦲
+                <br>
+        </samp>
+</p>
 
 <!-- Details Section -->
 <details align="center">
