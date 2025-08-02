@@ -47,6 +47,10 @@
                 <br>
                 🌱 I’m also learning **Cyberark and cybersecurity basics at my internship** 🌱
                 <br>
+                💡 Always curious — constantly learning and improving 💡
+                <br>
+                💪 Outside of coding, I enjoy **exercise** 🏋️ and exploring **entrepreneurship** 💼
+                <br>
                 ⚡ Fun fact: **I'm bald** 👨‍🦲
                 <br>
         </samp>
