@@ -43,15 +43,15 @@
         <samp>
                 🎓 Recent graduate in Compute Engieering at UCLM 🎓
                 <br>
-                🔭 Currently working on my final master's degree project 🔭
-                <br>
-                🌱 I’m also learning **Cyberark and cybersecurity basics at my internship** 🌱
-                <br>
                 💡 Always curious — constantly learning and improving 💡
                 <br>
-                💪 Outside of coding, I enjoy **exercise** 🏋️ and exploring **entrepreneurship** 💼
+                🔭 Currently working on my <b>final master's degree project</b> 🔭
                 <br>
-                ⚡ Fun fact: **I'm bald** 👨‍🦲
+                🌱 I’m also learning <b>Cyberark and cybersecurity </b> basics at my internship 🌱
+                <br>
+                💪 Outside of coding, I enjoy <b>exercise</b> 🏋️ and exploring <b>entrepreneurship</b> 💼
+                <br>
+                ⚡ Fun fact: <b>I'm bald</b> 👨‍🦲
                 <br>
         </samp>
 </p>
