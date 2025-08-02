@@ -1,7 +1,7 @@
 
 <!-- Title -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Lucian Farcas
+        <samp>&gt; Hey There!, I am Lucian
         </samp>
 </h3>
 <br>
