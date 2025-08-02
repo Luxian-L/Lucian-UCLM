@@ -1,3 +1,8 @@
+<!-- Inpiration for this readme:
+        https://github.com/ShahriarShafin/
+        https://github.com/orhun
+        https://github.com/SP-XD
+-->
 
 <!-- Title -->
 <h3 align="center">
